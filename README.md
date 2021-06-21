@@ -16,4 +16,6 @@ Install Locust using pip by running `pip3 install locust`
 
 Then you should just be able to run `locust` in the command line to start. Once you've done that, open a web browser and go to http://localhost:8089/ (if that doesn't work try http://127.0.0.1:8089/). There you can select the max number of users to create and how quickly to spawn them. I recommend sticking with ~10 users unless you want to actually load test this API.
 
+Once you've started the test you'll be able to see all kinds of stats about the number of requests being made to each endpoint and their response times. You can also click on "charts" to see this data graphed in real time.
+
 If you have any issues with setup or execution please let me know!
