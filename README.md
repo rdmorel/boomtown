@@ -6,7 +6,7 @@ Requires Node.js. To check if you have Node.js installed already, run `npm -v` i
 
 If it's not installed, download it here: https://nodejs.org/en/download/ and then **restart your computer**.
 
-Once you've cloned this repo you should be able to open Cypress by running `npx cypress open` from the command line in this directory. (Please make sure you do this in **this** directory, don't cd into the "Cypress" folder) After a few seconds Cypress should open and you should be able to run the tests just by clicking on them.
+Once you've cloned this repo you should be able to open Cypress by running `npx cypress open` from the command line in this directory. (Please make sure you do this in **this** directory. Don't cd into the "Cypress" folder.) After a few seconds Cypress should open and you should be able to run the tests just by clicking on them.
 
 ### Locust:
 
