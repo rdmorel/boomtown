@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://help.goboomtown.com",
+    "env": {
+        "username": "TestQA1@testqa.com",
+        "password": "TestQA1!",
+        "apiUrl": "https://api.preprod.goboomtown.com/sdk/v1/kb/search",
+        "headers": {
+            "X-Boomtown-Integration": "MF49ER",
+            "X-Boomtown-Key": "4dZ8mxjtkdLW3KLZJdaP5uHWtjk4eLrBDnLJB2hA6EUS"
+        }
+    }
+}
